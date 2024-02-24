@@ -87,11 +87,11 @@ font-weight: 500;
 }
 
 .header__menu-list {
-  list-style: none; 
   display: flex;
   flex-direction:column;
   justify-content:space-between;
   height: 100%;
+  list-style: none;
 }
 
 .header__menu-item_active {
@@ -196,10 +196,10 @@ span {
 }
 
 .cards-list {
-  list-style: none;
   display: flex;
   flex-direction: column;
   row-gap: 32px;
+  list-style: none;
 }
 
 
