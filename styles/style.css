@@ -66,7 +66,7 @@ font-weight: 500;
   color: white;
 }
 
-.content-section_theme_bright{
+.content-section_theme_bright {
   background-color: #FEE42A;
   color: #131313;
 }
@@ -196,7 +196,7 @@ span {
 }
 
 .cards-list {
-  list-style: none; 
+  list-style: none;
   display: flex;
   flex-direction: column;
   row-gap: 32px;
@@ -231,7 +231,7 @@ font-weight: 700;
   font-weight: 400;
 }
 
-.card__content{
+.card__content {
   display: flex;
   flex-direction: column;
   row-gap: 8px;
@@ -243,7 +243,7 @@ font-weight: 700;
   row-gap: 8px;
 }
 
-.footer{
+.footer {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -251,7 +251,7 @@ font-weight: 700;
   padding: 22px 20px 20px 20px;
 }
 
-.footer__links{
+.footer__links {
   width: 73px;
   display: flex;
   flex-direction: row;
